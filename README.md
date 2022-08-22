@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project illustrates my knowledge about the basic data visualisation in Matplotlib; using additional libraries, including pandas & numpy.
+This project illustrates my knowledge about the basic data visualisation in Matplotlib & seaborn; using additional libraries, including pandas & numpy.
 This project contains:
 * A python file: plot.py. This file demonstrates the use of libraries in visualising the needed graph. This graph is about the correlation between nutritions in food & drinks at Starbucks.
 * 2 CSV files: starbucks-menu-nutrition-drinks.csv, starbucks-menu-nutrition-food.csv. This file is the data file, which I found and download from Kaggle (a sharing data site). [Link](https://www.kaggle.com/datasets/starbucks/starbucks-menu?select=starbucks_drinkMenu_expanded.csv) to the dataset.
